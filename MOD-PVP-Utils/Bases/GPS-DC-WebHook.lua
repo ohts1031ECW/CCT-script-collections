@@ -1,6 +1,6 @@
 local PlayerDetector = peripheral.find("playerDetector")
 local WebHookURL =
-"https://discord.com/api/webhooks/1292801562422411295/g-1myKr7mL6r9yZwvxM_wQMg-QRDhe26BkHc5q0_h1A4VTV_OK099bIcC7XzMIwhWk2Z"
+""
 
 while true do
     local content = "```\n"
