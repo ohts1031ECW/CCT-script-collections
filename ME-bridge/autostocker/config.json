@@ -1,0 +1,14 @@
+[ 
+    {
+        "Target": {
+            "name":"create:framed_glass",
+            "nbt" : ""
+        },
+        "config": {
+            "max": 256,
+            "min": 64,
+            "type": "Item",
+            "amount": -1
+        }
+    }
+]
